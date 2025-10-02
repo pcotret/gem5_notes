@@ -1,0 +1,1 @@
+The idea of this repository is to take some notes while (re-)discovering/plying with gem5 with the goal of working of cache-related attacks for RISC-V processors.
